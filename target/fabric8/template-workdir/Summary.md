@@ -1,0 +1,1 @@
+Camel route using Servlet deployed as WAR
